@@ -6,10 +6,10 @@ This project performs an in-depth exploratory data analysis (EDA) on the Zomato 
 
 ## 📁 Project Structure
 
-zomato-data-analysis/
-├── zomato_compressed.zip # Compressed dataset 
-├── zomato_analysis.ipynb # Full code with data cleaning, preprocessing, EDA, and visualizations
-└── README.md # Project documentation
+- zomato-data-analysis
+   -├── zomato_compressed.zip # Compressed dataset 
+   -├── zomato_analysis.ipynb # Full code with data cleaning, preprocessing, EDA, and visualizations
+   -└── README.md # Project documentation
 
 
 ---
