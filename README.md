@@ -7,8 +7,8 @@ This project performs an in-depth exploratory data analysis (EDA) on the Zomato 
 ## 📁 Project Structure
 
 - zomato-data-analysis 
-  - ├── zomato_compressed.zip # Compressed dataset
-  - ├── zomato_analysis.ipynb # Full code with data cleaning, preprocessing, EDA, and visualizations
+  - ├── Zomato Dataset.zip # Compressed dataset
+  - ├── Zomato_Data_Analysis.ipynb # Full code with data cleaning, preprocessing, EDA, and visualizations
   - └── README.md # Project documentation
 
 
@@ -101,7 +101,7 @@ This project performs an in-depth exploratory data analysis (EDA) on the Zomato 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zomato-data-analysis.git
+   git clone https://github.com/RanaRam021/Zomato-Data-Analysis.git
    cd zomato-data-analysis
 
 2. Unzip the compressed files if needed::
@@ -110,7 +110,7 @@ This project performs an in-depth exploratory data analysis (EDA) on the Zomato 
 
 3. Open the Jupyter Notebook or run the Python script::
    ```bash
-   jupyter notebook zomato_analysis.ipynb
+   jupyter notebook Zomato_Data_Analysis.ipynb
 
 
 ## ⭐ Acknowledgment
